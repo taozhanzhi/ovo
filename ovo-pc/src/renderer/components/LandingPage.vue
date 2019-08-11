@@ -3,9 +3,9 @@
     <img id="logo" src="~@/assets/logo.png" alt="electron-vue">
     <main>
       <div class="left-side">
-        <span class="title">Welcome to your new project!!!</span>
-        <system-information></system-information>
-        <el-button @click="message" type="success" icon="el-icon-search" round>默认按钮</el-button>
+        <span class="title">OVO!</span>
+        <!-- <system-information></system-information> -->
+        <!-- <el-button @click="message" type="success" icon="el-icon-search" round>默认按钮</el-button> -->
       </div>
 
       <div class="right-side">
